@@ -13,3 +13,6 @@
 ### *The theater parent category has the 2nd highest kickstarter success rate globally.  2nd to music.
 ### *Within the theater parent category plays has the most kickstarters (vs. musicals and spaces) and plays has a 65% success rate.
 ### *Of the play subcategory kickstarters in the US the mean goal of successful kickstarters was ~$5,000 vs. the mean goal of unsucessful kickstarters was ~$10,000.
+
+
+!Resources/Theater_Outcomes_vs_Launch.png
