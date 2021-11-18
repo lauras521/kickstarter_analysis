@@ -15,4 +15,4 @@
 ### *Of the play subcategory kickstarters in the US the mean goal of successful kickstarters was ~$5,000 vs. the mean goal of unsucessful kickstarters was ~$10,000.
 
 
-!Resources/Theater_Outcomes_vs_Launch.png
+![New Chart](Resources/Theater_Outcomes_vs_Launch.png)
