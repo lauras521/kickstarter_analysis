@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 ## Overview of Project
 ### Purpose
-Louise's play, *Fever* came close to its fundraising goal quickly.  She now wants to understand how different Kickstarter campaigns faired in relation to their launch dates and their funding goals.  Reviewing data for different theater Kickstarter outcomes based on launch date and Kickstarter outcomes based on goal will help Louise see her Kickstarter fate.
+Louise wants to fund a play *Fever* via kickstarter.  The play has a $10,000+ budget.  Analysis of previous kickstarter campaigns was completed to determine factors in a successful kickstarter.  Louise's play, *Fever* came close to its fundraising goal quickly.  She now wants to understand how different Kickstarter campaigns faired in relation to their launch dates and their funding goals.  We will review data for different theater Kickstarter outcomes based on launch date and Kickstarter outcomes based on goal to see if we can help Louise see her Kickstarter fate.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 Below outlines the process taken to complete the analysis of outcomes based on launch date. 
@@ -74,22 +74,22 @@ One challenge I encountered was initially I tried to capture the <= and > in one
 ### What can you conclude about the Outcomes based on Goals?
 In general, lower dollar Kickstarters were more successful than higher dollar.  There is a dollar range of exception.  The highest successful Kickstarters were in the <$1000 range at 76% successful.  There is a downward trend on success rate as the dollar goal increases.  However, the $35,000-$44,999 range does have a high success rate (67%) although a fairly low number of projects at 9. 
 ### What are some limitations of this dataset?
-
+The data shows months Kickstarters are launched in but you don't know if the funding was frontloaded, backloaded, etc.  
 ### What are some other possible tables and/or graphs that we could create?
+Creating chart showing Kickstarter Outcomes based on the length of the Kickstarter.  You could use the date created and date ended dates to determine the length of time the Kickstarter was opened and plot that vs. success rate and/or $ goal.  This might help Louise see how quickly she might be able to reach her goal.  
 
 
+###  Additional Analysis Completed Prior to Kickstarter Launch In Modules
 
+<p align="center">
+  <img src = https://github.com/lauras521/kickstarter_analysis/blob/8c0eff05feed78c1286244deedac344c53fc04ec/Resources/USKickstarterProjectResultsbyParentCategoryChartPicture.png>
+</p>
 
+<p align="center">
+  <img src = https://github.com/lauras521/kickstarter_analysis/blob/8c0eff05feed78c1286244deedac344c53fc04ec/Resources/KickstarterProjectOutcomesBasedonLaunchDate.png>
+</p>
 
-
-
-
-# An Analysis of Kickstarter Campaigns
-## Louise wants to fund a play Fever via kickstarter.  The play has a $10,000+ budget.  Analysis of previous kickstarter campaigns was completed to determine factors in a successful kickstarter.
-![KickstarterProjectOutcomesBasedonLaunchDate](path/to/image_name.png)
-![USKickstarterProjectResultsbyParentCategoryChartPicture](path/to/image_name.png)
-[data-1-1-3-StarterBook](path/to/filename.xlxs)
-## Recommendations and Conclusions:
+#### Recommendations and Conclusions Based on Additional Graphs Reviewed Before Kickstarter Started:
 * Launch kickcstarter in May for highest success rate
 * 60% of theater kickstarers are successful globally
 * 72% of theater kickstarters are successful in GB
@@ -99,6 +99,3 @@ In general, lower dollar Kickstarters were more successful than higher dollar.  
 * The theater parent category has the 2nd highest kickstarter success rate globally.  2nd to music.
 * Within the theater parent category plays has the most kickstarters (vs. musicals and spaces) and plays has a 65% success rate.
 * Of the play subcategory kickstarters in the US the mean goal of successful kickstarters was ~$5,000 vs. the mean goal of unsucessful kickstarters was ~$10,000.
-
-
-
