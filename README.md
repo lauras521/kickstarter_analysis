@@ -69,8 +69,12 @@ One challenge I encountered was initially I tried to capture the <= and > in one
 
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. The most successful Kickstarters were launched in May.
+2. Failed and canceled Kickstarters are fairly consistent across the months of the year.
 ### What can you conclude about the Outcomes based on Goals?
+In general, lower dollar Kickstarters were more successful than higher dollar.  There is a dollar range of exception.  The highest successful Kickstarters were in the <$1000 range at 76% successful.  There is a downward trend on success rate as the dollar goal increases.  However, the $35,000-$44,999 range does have a high success rate (67%) although a fairly low number of projects at 9. 
 ### What are some limitations of this dataset?
+
 ### What are some other possible tables and/or graphs that we could create?
 
 
