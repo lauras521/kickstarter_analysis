@@ -74,9 +74,9 @@ One challenge I encountered was initially I tried to capture the <= and > in one
 ### What can you conclude about the Outcomes based on Goals?
 In general, lower dollar Kickstarters were more successful than higher dollar.  There is a dollar range of exception.  The highest successful Kickstarters were in the <$1000 range at 76% successful.  There is a downward trend on success rate as the dollar goal increases.  However, the $35,000-$44,999 range does have a high success rate (67%) although a fairly low number of projects at 9. 
 ### What are some limitations of this dataset?
-The data shows months Kickstarters are launched in but you don't know if the funding was frontloaded, backloaded, etc.  
+The data shows the months Kickstarters are launched in but you don't know if the funding was frontloaded, backloaded, etc.  This information could help Louise understand her possibiltiy of success now that the Kickstarter has launched. 
 ### What are some other possible tables and/or graphs that we could create?
-Creating chart showing Kickstarter Outcomes based on the length of the Kickstarter.  You could use the date created and date ended dates to determine the length of time the Kickstarter was opened and plot that vs. success rate and/or $ goal.  This might help Louise see how quickly she might be able to reach her goal.  
+Creating a chart showing Kickstarter Outcomes based on the length of the Kickstarter.  You could use the date created and date ended dates to determine the length of time the Kickstarter was opened and plot that vs. success rate and/or $ goal.  This might help Louise see how quickly she might be able to reach her goal.  
 
 
 ###  Additional Analysis Completed Prior to Kickstarter Launch In Modules
